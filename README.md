@@ -6,9 +6,23 @@ Welcome to the Software Development competency workspace. If you are a member of
 
 ---
 
-### 📂 Current Competency Modules
-* 📄 **[Frontend Engineer](competencies/frontend-engineer.md)** *(Example link)*
-* 📄 **[Backend Engineer](competencies/backend-engineer.md)** *(Example link)*
+## 👥 How to Join This Sub-Sector Team
+
+To create pull requests or make changes to this repository, you must first become an approved member of our organization and then join the Software Development team. 
+
+Follow these steps completely within your browser:
+
+### Step 1: Join the Main GitHub Organization
+1. Contact the repository administrator and provide them with your **GitHub Username**.
+2. Check your email or go directly to [https://github.com](https://github.com).
+3. Look for the top invitation banner and click **Accept Invitation** to join the organization.
+   * *Note: You must complete this step first, or the permissions pages in Step 2 will be hidden from you.*
+
+### Step 2: Request Access to the Sub-Sector Team
+1. Once you are a member of the organization, go to the central [Organization Teams Page](https://github.com).
+2. Click on the team named **`subsector-software-development`**.
+3. Look at the top-right corner of the team's dashboard and click the **Request to join** button.
+4. An administrator will review your request. Once approved, you will automatically be granted access to fork this repository and submit pull requests to the `development` branch.
 
 ### 🛠️ How to Contribute Competency Changes (Web UI Guide)
 
@@ -23,5 +37,10 @@ All updates must be made against our `development` branch via a fork. Please fol
 5. **Submit:** Click **Create pull request** and fill out the details describing your competency updates.
 
 ---
-4. Click **Commit changes...** to save your work.
+
+### 📂 Current Competency Modules
+* 📄 **[Frontend Engineer](competencies/frontend-engineer.md)** *(Example link)*
+* 📄 **[Backend Engineer](competencies/backend-engineer.md)** *(Example link)*
+
+---
 
