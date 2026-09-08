@@ -6,6 +6,10 @@ Welcome to the Software Development competency workspace. If you are a member of
 
 ---
 
+### 📂 Current Competency Modules
+* 📄 **[Frontend Engineer](competencies/frontend-engineer.md)** *(Example link)*
+* 📄 **[Backend Engineer](competencies/backend-engineer.md)** *(Example link)*
+
 ### 🛠️ How to Contribute Competency Changes (Web UI Guide)
 
 All updates must be made against our `development` branch via a fork. Please follow these steps completely inside your browser:
