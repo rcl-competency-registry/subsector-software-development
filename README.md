@@ -2,7 +2,7 @@
 
 Welcome to the Software Development competency workspace. If you are a member of this team, you have write permissions to add and edit job competency modules here.
 
-⬅️ [Back to IT Sector Central Registry](https://github.com)
+⬅️ [Back to Information Technology Sector Central Registry](https://github.com/rcl-competency-registry/sector-information-technology)
 
 ---
 
